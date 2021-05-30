@@ -1,1 +1,1 @@
-"# stockmarket Frontend App" 
+# stockmarket Frontend App

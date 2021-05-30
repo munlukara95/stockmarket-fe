@@ -1,0 +1,227 @@
+
+
+
+.to-login__form--brand img {
+    opacity: 1;
+    width: 300px;
+  }
+  
+  .to-login__form--input_frame input:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  
+  .to-login__form--btn button:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  
+  
+  
+  
+  
+  @media screen and (min-width: 2500px){
+    .to-login__form--input_frame {
+      width: 250px;
+      margin: 0 37%;
+      margin-bottom: 50px;
+    }
+  
+    .to-login__form--input_frame input {
+      height: 3rem;
+      font-size: 1.5rem;
+    }
+    
+    .to-login__form--btn {
+      margin: 0 42%
+    }
+  
+    .to-login__form--btn button {
+      width: 130px;
+      height: 3.2rem;
+      font-size: 1.5rem;
+      
+    }
+  
+    .to-login__form--brand {
+      margin-bottom: 100px;
+    }
+  
+    .to-login__form {
+      margin: 0 50%;
+      opacity: 0.9;
+    
+      width: 50%;
+      height: 100%;
+    
+      background-color: #e6e6ff;
+    
+      padding: 9% 0;
+    }
+  }
+  
+  @media screen and (max-width: 2500px){
+    .to-login__form--input_frame {
+      width: 250px;
+      margin: 0 29%;
+      margin-bottom: 50px;
+    }
+  
+    .to-login__form--input_frame input {
+      height: 3rem;
+      font-size: 1.5rem;
+    }
+    
+    .to-login__form--btn {
+      margin: 0 37.5%
+    }
+  
+    .to-login__form--btn button {
+      width: 130px;
+      height: 3.2rem;
+      font-size: 1.5rem;
+      
+    }
+  
+    .to-login__form--brand {
+      margin-bottom: 100px;
+    }
+  
+    .to-login__form {
+      margin: 0 50%;
+      opacity: 0.9;
+    
+      width: 50%;
+      height: 100%;
+    
+      background-color: #e6e6ff;
+    
+      padding: 17% 0;
+    }
+  }
+  
+  @media screen and (max-width: 1400px){
+    .to-login__form--input_frame {
+      width: 250px;
+      margin: 0 20%;
+      margin-bottom: 50px;
+    }
+  
+    .to-login__form--input_frame input {
+      height: 3rem;
+      font-size: 1.5rem;
+    }
+    
+    .to-login__form--btn {
+      margin: 0 31%
+    }
+  
+    .to-login__form--btn button {
+      width: 130px;
+      height: 3.2rem;
+      font-size: 1.5rem;
+      
+    }
+  
+    .to-login__form--brand {
+      margin-bottom: 100px;
+    }
+  
+    .to-login__form {
+      margin: 0 50%;
+      opacity: 0.9;
+    
+      width: 50%;
+      height: 100%;
+    
+      background-color: #e6e6ff;
+    
+      padding: 25% 0;
+    }
+  }
+  
+  @media screen and (width: 2048px){
+    .to-login__form--input_frame {
+      width: 250px;
+      margin: 0 35%;
+      margin-bottom: 50px;
+    }
+  
+    .to-login__form--input_frame input {
+      height: 3rem;
+      font-size: 1.5rem;
+    }
+    
+    .to-login__form--btn {
+      margin: 0 41.5%
+    }
+  
+    .to-login__form--btn button {
+      width: 130px;
+      height: 3.2rem;
+      font-size: 1.5rem;
+      
+    }
+  
+    .to-login__form--brand {
+      margin-bottom: 100px;
+    }
+  
+    .to-login__form {
+      margin: 0 50%;
+      opacity: 0.9;
+    
+      width: 50%;
+      height: 100%;
+    
+      background-color: #e6e6ff;
+    
+      padding: 9% 0;
+    }
+  }
+  
+  @media screen and (max-width: 1400px){
+    .to-login__form--input_frame {
+      width: 250px;
+      margin: 0 30%;
+      margin-bottom: 50px;
+    }
+  
+    .to-login__form--input_frame input {
+      height: 3rem;
+      font-size: 1.5rem;
+      margin-bottom: 20px;
+    }
+    
+    .to-login__form--btn {
+      margin: 0 40%;
+    }
+  
+    .to-login__form--btn button {
+      width: 130px;
+      height: 3.2rem;
+      font-size: 1.5rem;
+      margin-bottom: 10px;
+    }
+  
+    .to-login__form--brand {
+      margin-bottom: 50px;
+    }
+  
+    .to-login__form {
+      margin: 0 50%;
+      opacity: 0.9;
+    
+      width: 50%;
+      height: 100%;
+    
+      background-color: #e6e6ff;
+    
+      padding: 5% 0;
+    }
+  
+    .to-login__form--brand img {
+      opacity: 1;
+      width: 200px;
+    }
+  }
